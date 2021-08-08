@@ -1,0 +1,12 @@
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\OperacionFuegoDeQuasar.exe
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\OperacionFuegoDeQuasar.dll
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\OperacionFuegoDeQuasar.deps.json
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\OperacionFuegoDeQuasar.runtimeconfig.json
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\OperacionFuegoDeQuasar.pdb
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos\MELI\OperacionFuegoDeQuasar\OperacionFuegoDeQuasar\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
