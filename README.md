@@ -6,7 +6,7 @@ Aplicación fuego de quasar para determinar mensaje oculto y posicion de la nave
 
 El servicio se encuentra desplegado en Amazon AWS Elastic Beanstalk.
 
-* Funcion POST Topsecret: 
+* Función POST Topsecret: 
   * Petición tipo POST
   * Link: http://operacionfuegodequasar-env.eba-6zdvexms.us-east-2.elasticbeanstalk.com/Topsecret
   * Recibe el nombre de 3 satélites, las distancias hacia el objetivo a encontrar de cada satélite y un mensaje oculto el cual se encuentra entre los mismos con interferencias.
@@ -74,7 +74,7 @@ El servicio se encuentra desplegado en Amazon AWS Elastic Beanstalk.
   ![get ok](https://user-images.githubusercontent.com/20496342/128646100-5e66193d-510a-4741-8bbe-cbc68b85a28a.png)
   
 # Arquitectura
- * La solucion fue desarrollada implementando los conceptos SOLID y aplicando buenas prácticas de programacion.
+ * La solución fue desarrollada implementando los conceptos SOLID y aplicando buenas prácticas de programación.
  * Diagrama de clases UML donde se representan las clases que conforman la aplicación
  ![UML](https://user-images.githubusercontent.com/20496342/128646216-955c8e86-2650-405e-92f2-f4541c5adc34.png)
 
