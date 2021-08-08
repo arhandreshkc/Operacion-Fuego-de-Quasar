@@ -1,6 +1,6 @@
-# Operacion-Fuego-de-Quasar
+# Operación-Fuego-de-Quasar
 
-Aplicación fuego de quasar para determinar mensaje oculto y posicion de la nave engmiga.
+Aplicación fuego de quasar para determinar mensaje oculto y posicion de la nave enemiga.
 
 # Ejecución
 
