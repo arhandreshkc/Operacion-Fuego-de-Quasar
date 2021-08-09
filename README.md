@@ -62,7 +62,7 @@ El servicio se encuentra desplegado en Amazon AWS Elastic Beanstalk.
     ![error_ya_cargados](https://user-images.githubusercontent.com/20496342/128645959-8dfc585a-d12d-4e71-8c3f-29dca6515130.png)
 
 * Funcion GET Topsecret_Split: 
-  * Petición tipo POST
+  * Petición tipo GET
   * Link: http://operacionfuegodequasar-env.eba-6zdvexms.us-east-2.elasticbeanstalk.com/Topsecret_Split  
   * Recupera la información cargada en de la función post (Topsecret_Split) y determina la ubicación del objetivo y el mensaje oculto enviado. Luego de cada llamada a esta   función se limpian los satélites almacenados. 
   * Posibles respuestas: codigo 200 ok junto al mensaje oculto y las coordenadas del objetivo, en caso de error codigo 404 junto al error especificado.
